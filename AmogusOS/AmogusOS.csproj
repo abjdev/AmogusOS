@@ -25,10 +25,17 @@
         <PackageReference Include="Cosmos.System2" Version="0-*" NoWarn="NU1604" />
     </ItemGroup>
 
+<<<<<<< HEAD
     <ItemGroup>
       <Reference Include="CommanderLibraries_v1">
         <HintPath>C:\Users\zekit\Downloads\CommanderLibraries_v1.dll</HintPath>
       </Reference>
+=======
+    <ItemGroup>
+      <Reference Include="CommanderLibraries_v1">
+        <HintPath>C:\Users\zekit\Downloads\CommanderLibraries_v1.dll</HintPath>
+      </Reference>
+>>>>>>> 94899b1 (Adding initial files.)
     </ItemGroup>
 
 </Project>
